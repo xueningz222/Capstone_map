@@ -1,0 +1,10 @@
+env/
+*.pyc
+new_tiles/
+*.tfw
+*.xml
+*.cpg
+*.ovr
+*.dbf
+*.tif
+#!new file.tif
